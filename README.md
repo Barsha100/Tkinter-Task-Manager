@@ -37,4 +37,8 @@ The Task Manager application demonstrates a solid implementation of task managem
 Clone the Repository:
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/Barsha100/Task--manager.git
+=======
+https://github.com/Barsha100/Tkinter-Task-Manager.git
+>>>>>>> bb6c2154635047e16d87cf218cd91c647b31ee68
