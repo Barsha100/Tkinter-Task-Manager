@@ -12,6 +12,7 @@ A simple task management application built with Python and Tkinter that allows u
 
 ## Installation
 
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/Barsha100/Task--manager.git
+Clone the Repository:
+
+```bash
+git clone https://github.com/Barsha100/Task--manager.git
